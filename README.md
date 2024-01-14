@@ -4,6 +4,7 @@
 Dedicated and highly analytical professional with a strong background in mathematics, statistics, and data analysis. Ten years of experience in the field of education, specializing in teaching mathematics, statistics, programming (primarily Python), and data analysis for scientific research. Strong data management and statistical skills with proficiency in Python and R. Currently building my portfolio and studying machine learning. Looking forward to joining a professional and diverse team with focus on applying machine learning automation decisions.
 * LinkedIn: [www.linkedin.com/in/papavramidisthemis](https://www.linkedin.com/in/papavramidisthemis/)
 * email: [papavramidis.themis@gmail.com](mailto:papavramidis.themis@gmail.com)
+&nbsp;
 
 ## Education
 ### MSci Computer Science and Engineering -- currently studying
@@ -12,6 +13,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 #### University of the Aegean, Samos, Greece
 ### BSc Mathematics -- 2013
 #### University of Ioannina, Greece
+&nbsp;
 
 ## Work Experience
 ### Tutor, Owner 2018 - TODAY
@@ -19,15 +21,19 @@ Dedicated and highly analytical professional with a strong background in mathema
 * Providing educational support in mathematics and programming to high school students
 * Providing educational support in mathematics, programming and statistics to university students
 * Providing questionnaire analyses.
+&nbsp;
 ### Tutor, Analyst 2015 - 2020
 #### Educational Group "Learn IT", Thessaloniki
 * Providing questionnaire analysis in the research part of theses
 * Providing educational support in mathematics, statistics and operations research to university students
+&nbsp;
 
 ## Projects
 ### Questionnaire analysis
 * [Climate change: Teachers' perceptions and self-efficacy regarding its teaching in Primary School](E23001/README.md)
 * Investigating the mental resilience of special educators and its relationship with empathy and mindfulness
 * Assessing diabetes mellitus competencies among nurses in surgery and pathology departments: knowledge, attitudes and practices
+&nbsp;
+
 ### Dashboards
 * "Φ" Maths & Statistics lab dashboard
