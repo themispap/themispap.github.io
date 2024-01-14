@@ -20,7 +20,7 @@ machine learning automation decisions.
 ## Work Experience
 ### Tutor, Owner 2018 - TODAY
 #### ["Φ" Maths & Statistics lab](https://phi.edu.gr/), Ioannina
-*Providing educational support in mathematics and programming to high school students
+* Providing educational support in mathematics and programming to high school students
 * Providing educational support in mathematics, programming and statistics to university students
 * Providing questionnaire analyses.
 ### Tutor, Analyst 2015 - 2020
