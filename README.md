@@ -9,11 +9,11 @@ R. Currently building my portfolio and studying machine learning. Looking
 forward to joining a professional and diverse team with focus on applying
 machine learning automation decisions.
 ## Education
-### | MSci Computer Science and Engineering | currently studying |
+### MSci Computer Science and Engineering -- currently studying
 #### University of Ioannina, Greece
-### | MSc Statistics & Data analysis | 2022 |
+### MSc Statistics & Data analysis -- 2022
 #### University of the Aegean, Samos, Greece
-### | BSc Mathematics | 2013 |
+### BSc Mathematics -- 2013
 #### University of Ioannina, Greece
 ## Work Experience
 ## Projects
