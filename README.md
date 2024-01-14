@@ -9,7 +9,7 @@ R. Currently building my portfolio and studying machine learning. Looking
 forward to joining a professional and diverse team with focus on applying
 machine learning automation decisions.
 * LinkedIn: [www.linkedin.com/in/papavramidisthemis](https://www.linkedin.com/in/papavramidisthemis/)
-* email: [papavramidis.themis@gmail.com](papavramidis.themis@gmail.com)
+* email: [papavramidis.themis@gmail.com](mailto:papavramidis.themis@gmail.com)
 ## Education
 ### MSci Computer Science and Engineering -- currently studying
 #### University of Ioannina, Greece
