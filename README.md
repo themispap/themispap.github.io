@@ -1,15 +1,10 @@
 # Data Scientist
+
 ## About me
-Dedicated and highly analytical professional with a strong background in
-mathematics, statistics, and data analysis. Ten years of experience in the
-field of education, specializing in teaching mathematics, statistics,
-programming (primarily Python), and data analysis for scientific research.
-Strong data management and statistical skills with proficiency in Python and
-R. Currently building my portfolio and studying machine learning. Looking
-forward to joining a professional and diverse team with focus on applying
-machine learning automation decisions.
+Dedicated and highly analytical professional with a strong background in mathematics, statistics, and data analysis. Ten years of experience in the field of education, specializing in teaching mathematics, statistics, programming (primarily Python), and data analysis for scientific research. Strong data management and statistical skills with proficiency in Python and R. Currently building my portfolio and studying machine learning. Looking forward to joining a professional and diverse team with focus on applying machine learning automation decisions.
 * LinkedIn: [www.linkedin.com/in/papavramidisthemis](https://www.linkedin.com/in/papavramidisthemis/)
 * email: [papavramidis.themis@gmail.com](mailto:papavramidis.themis@gmail.com)
+
 ## Education
 ### MSci Computer Science and Engineering -- currently studying
 #### University of Ioannina, Greece
@@ -17,6 +12,7 @@ machine learning automation decisions.
 #### University of the Aegean, Samos, Greece
 ### BSc Mathematics -- 2013
 #### University of Ioannina, Greece
+
 ## Work Experience
 ### Tutor, Owner 2018 - TODAY
 #### ["Φ" Maths & Statistics lab](https://phi.edu.gr/), Ioannina
@@ -27,10 +23,11 @@ machine learning automation decisions.
 #### Educational Group "Learn IT", Thessaloniki
 * Providing questionnaire analysis in the research part of theses
 * Providing educational support in mathematics, statistics and operations research to university students
+
 ## Projects
 ### Questionnaire analysis
 * Climate change: Teachers' perceptions and self-efficacy regarding its teaching in Primary School
 * Investigating the mental resilience of special educators and its relationship with empathy and mindfulness
 * Assessing diabetes mellitus competencies among nurses in surgery and pathology departments: knowledge, attitudes and practices
 ### Dashboards
-* Phi math and statisticl lab dashboard
+* "Φ" Maths & Statistics lab dashboard
