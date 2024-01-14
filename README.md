@@ -37,3 +37,10 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Dashboards
 * "Φ" Maths & Statistics lab dashboard
+
+### Data analysis
+* Business Financial Results
+* Chronological study of stock closing prices
+* Time series analysis #1
+* Time series analysis #2
+* Analysis of Variance (ANOVA)
