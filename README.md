@@ -16,23 +16,27 @@ Dedicated and highly analytical professional with a strong background in mathema
 &nbsp;
 
 ## Work Experience
+
 ### Tutor, Owner 2018 - TODAY
+
 #### ["Φ" Maths & Statistics lab](https://phi.edu.gr/), Ioannina
 * Providing educational support in mathematics and programming to high school students
 * Providing educational support in mathematics, programming and statistics to university students
 * Providing questionnaire analyses.
-&nbsp;
+
 ### Tutor, Analyst 2015 - 2020
+
 #### Educational Group "Learn IT", Thessaloniki
 * Providing questionnaire analysis in the research part of theses
 * Providing educational support in mathematics, statistics and operations research to university students
 &nbsp;
 
 ## Projects
+
 ### Questionnaire analysis
 * [Climate change: Teachers' perceptions and self-efficacy regarding its teaching in Primary School](E23001/README.md)
-* Investigating the mental resilience of special educators and its relationship with empathy and mindfulness
-* Assessing diabetes mellitus competencies among nurses in surgery and pathology departments: knowledge, attitudes and practices
+* [Investigating the mental resilience of special educators and its relationship with empathy and mindfulness](E23017/README.md)
+* [Assessing diabetes mellitus competencies among nurses in surgery and pathology departments: knowledge, attitudes and practices](E23024/README.md)
 &nbsp;
 
 ### Dashboards
