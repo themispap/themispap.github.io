@@ -1,6 +1,6 @@
 # Climate change: Teachers' perceptions and self-efficacy regarding its teaching in Primary School
 ![](pic_23001.jpg)
-## tools: ![](https://w1.pngwing.com/pngs/199/577/png-transparent-python-logo-programming-language-computer-programming-python-tutorial-highlevel-programming-language-java-generalpurpose-programming-language-statement-thumbnail.png)
+## tools: Python
 This research was carried out with the aim of studying the perceptions of primary school teachers in the region of Epirus on climate change. In addition, the level of self-efficacy of teachers in terms of teaching climate change was studied, as well as the relationship between the two above.
 Thus, this research was designed in order to provide answers to the following research questions:
 * What are the teachers' basic perceptions of climate change?
