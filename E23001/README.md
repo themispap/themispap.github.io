@@ -13,4 +13,4 @@ Thus, this research was designed in order to provide answers to the following re
 
 ## Data collection tool
 
-The [questionnaire](E23001_qre) consists of four parts. The first part includes questions about demographics. The second part consists of questions concerning perceptions and attitudes regarding the greenhouse effect and climate change. The third part concerns education on climate change and finally, the fourth part concerns teacher self-efficacy.
+The [questionnaire](E23001_qre.md) consists of four parts. The first part includes questions about demographics. The second part consists of questions concerning perceptions and attitudes regarding the greenhouse effect and climate change. The third part concerns education on climate change and finally, the fourth part concerns teacher self-efficacy.
