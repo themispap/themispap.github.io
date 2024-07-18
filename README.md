@@ -57,7 +57,7 @@ This project involves creating a relational database for managing various operat
 
 A Streamlit app providing an interactive dashboard connected to a PostgreSQL database using SQLAlchemy.
 
-## Web Scraping
+### Web Scraping
 
 * project
 
