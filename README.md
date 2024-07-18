@@ -51,7 +51,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Dashboards
 
-* ["Φ" Maths & Statistics lab dashboard](https://github.com/themispap/Streamlit_project_phi_dashboard) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+* ["Φ" Maths & Statistics lab dashboard](https://github.com/themispap/Streamlit_project_phi_dashboard/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
 
 ### Data cleaning
 
