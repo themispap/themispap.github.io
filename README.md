@@ -1,25 +1,3 @@
-<style>
-img.a {
-  vertical-align: baseline;
-}
-
-img.b {
-  vertical-align: text-top;
-}
-
-img.c {
-  vertical-align: text-bottom;
-}
-
-img.d {
-  vertical-align: sub;
-}
-
-img.e {
-  vertical-align: super;
-}
-</style>
-
 # Data Scientist
 
 ## About me
@@ -73,7 +51,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Dashboards
 
-* ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard)<img height='25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+* ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
 
 ### Data analysis
 
