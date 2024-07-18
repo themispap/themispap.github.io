@@ -56,7 +56,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 ### Data analysis
 
 * Business Financial Results
-* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](TSproject/project.html)
+* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](TSproject/project.html) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 * Time series analysis #1
 * Time series analysis #2
 * Analysis of Variance (ANOVA)
