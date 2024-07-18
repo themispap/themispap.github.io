@@ -57,18 +57,23 @@ This project involves creating a relational database for managing various operat
 
 A Streamlit app providing an interactive dashboard connected to a PostgreSQL database using SQLAlchemy.
 
+## Web Scraping
+
+* project
+
 ### Data cleaning
 
 * [SmartPrix Laptops](https://github.com/themispap/Data_cleaning_project_SmartPrix_Laptops/blob/0b315eee9c1abe29b3e51a414fe2e28c4a8cc82d/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 
 The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024.
 
+## ETL (Extract Transform Load)
+
+* project
+
 ### Data analysis
 
-* Business Financial Results
 * [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](TSproject/project.html) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
-* Time series analysis #1
-* Time series analysis #2
 * Analysis of Variance (ANOVA) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 
 ### Machine Learning
