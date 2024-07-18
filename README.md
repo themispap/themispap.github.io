@@ -45,9 +45,13 @@ Dedicated and highly analytical professional with a strong background in mathema
 * [Investigating the mental resilience of special educators and its relationship with empathy and mindfulness](E23017/README.md)
 * [Assessing diabetes mellitus competencies among nurses in surgery and pathology departments: knowledge, attitudes and practices](E23024/README.md)
 
+### Databases
+
+* <i class="devicon-postgresql-plain-wordmark colored"></i> ["Φ" Maths & Statistics lab database](SQL_project_phi_database)
+
 ### Dashboards
 
-* "Φ" Maths & Statistics lab dashboard
+* ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard)
 
 ### Data analysis
 
