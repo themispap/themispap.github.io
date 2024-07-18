@@ -51,7 +51,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Dashboards
 
-* ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard)<img hight='15px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+* ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard)<img height='15px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 
 ### Data analysis
 
