@@ -47,7 +47,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Databases
 
-* ["Φ" Maths & Statistics lab database]([https://github.com/themispap/SQL_project_phi_database/README.md](https://github.com/themispap/SQL_project_phi_database/blob/main/README.md)) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+* ["Φ" Maths & Statistics lab database](https://github.com/themispap/SQL_project_phi_database/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 
 ### Dashboards
 
