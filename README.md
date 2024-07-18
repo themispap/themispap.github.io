@@ -73,7 +73,7 @@ The data is of all the Laptops available online on SmartPrix website in India in
 
 ### Data analysis
 
-* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](TSproject/project.html) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](https://github.com/themispap/R_project_time_series_analysis/blob/02cb91bf5117af3a76b5afd38f98a67d0fb0ef78/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 * Analysis of Variance (ANOVA) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 
 ### Machine Learning
