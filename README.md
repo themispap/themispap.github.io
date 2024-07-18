@@ -47,11 +47,11 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Databases
 
-* ["Φ" Maths & Statistics lab database](https://raw.githubusercontent.com/themispap/SQL_project_phi_database/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+* ["Φ" Maths & Statistics lab database](https://raw.githubusercontent.com/themispap/SQL_project_phi_database/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 
 ### Dashboards
 
-* ["Φ" Maths & Statistics lab dashboard](https://raw.githubusercontent.com/themispap/Streamlit_project_phi_dashboard/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+* ["Φ" Maths & Statistics lab dashboard](https://raw.githubusercontent.com/themispap/Streamlit_project_phi_dashboard/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
 
 ### Data cleaning
 
