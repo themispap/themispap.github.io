@@ -5,6 +5,7 @@
 Dedicated and highly analytical professional with a strong background in mathematics, statistics, and data analysis. Ten years of experience in the field of education, specializing in teaching mathematics, statistics, programming (primarily Python), and data analysis for scientific research. Strong data management and statistical skills with proficiency in Python, R and SQL. Currently building my portfolio and studying machine learning. Looking forward to joining a professional and diverse team with focus on applying machine learning automation decisions.
 * LinkedIn: [www.linkedin.com/in/papavramidisthemis](https://www.linkedin.com/in/papavramidisthemis/)
 * email: [papavramidis.themis@gmail.com](mailto:papavramidis.themis@gmail.com)
+* [Download](papavramidis_cv.pdf) my CV
 
 ## Education
 
@@ -22,7 +23,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ## Work Experience
 
-### Tutor, Owner 2018 - TODAY
+### Tutor, Executive Manager 2018 - TODAY
 
 #### ["Φ" Maths & Statistics lab](https://phi.edu.gr/), Ioannina, Greece
 
