@@ -61,7 +61,7 @@ A Streamlit app providing an interactive dashboard connected to a PostgreSQL dat
 
 * [SmartPrix Laptops](https://github.com/themispap/Data_cleaning_project_SmartPrix_Laptops/blob/0b315eee9c1abe29b3e51a414fe2e28c4a8cc82d/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 
-The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024. (dataset from kaggle <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg"/>)
+The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024.
 
 ### Data analysis
 
