@@ -67,13 +67,16 @@ A Streamlit app providing an interactive dashboard connected to a PostgreSQL dat
 
 The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024.
 
-## ETL (Extract Transform Load)
+### ETL (Extract Transform Load)
 
 * project
 
 ### Data analysis
 
 * [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](https://github.com/themispap/R_project_time_series_analysis/blob/02cb91bf5117af3a76b5afd38f98a67d0fb0ef78/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+
+This project involves a comprehensive time series analysis and forecasting endeavor focused on the closing values of Technical Olympic S.A. stock
+
 * Analysis of Variance (ANOVA) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 
 ### Machine Learning
