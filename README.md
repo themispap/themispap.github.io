@@ -53,6 +53,10 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 * ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
 
+### Data cleaning
+
+* [SmartPrix Laptops](SmartPrix Laptops) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+
 ### Data analysis
 
 * Business Financial Results
