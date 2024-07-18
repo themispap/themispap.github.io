@@ -47,11 +47,11 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Databases
 
-* ["Φ" Maths & Statistics lab database](https://github.com/themispap/SQL_project_phi_database/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+* ["Φ" Maths & Statistics lab database](https://raw.githubusercontent.com/themispap/SQL_project_phi_database/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 
 ### Dashboards
 
-* ["Φ" Maths & Statistics lab dashboard](https://github.com/themispap/Streamlit_project_phi_dashboard/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+* ["Φ" Maths & Statistics lab dashboard](https://raw.githubusercontent.com/themispap/Streamlit_project_phi_dashboard/blob/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
 
 ### Data cleaning
 
@@ -60,10 +60,10 @@ Dedicated and highly analytical professional with a strong background in mathema
 ### Data analysis
 
 * Business Financial Results
-* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](TSproject/project.html) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](TSproject/project.html) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 * Time series analysis #1
 * Time series analysis #2
-* Analysis of Variance (ANOVA)
+* Analysis of Variance (ANOVA) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 
 ### Machine Learning
 
