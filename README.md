@@ -53,7 +53,7 @@ This project involves creating a relational database for managing various operat
 
 ### Dashboards
 
-* ["Φ" Maths & Statistics lab dashboard](https://github.com/themispap/Streamlit_project_phi_dashboard/main/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+* ["Φ" Maths & Statistics lab dashboard](https://github.com/themispap/SQL_project_phi_database/blob/14772d57243eb3011605b43117bc3f2e5e033642/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
 
 A Streamlit app providing an interactive dashboard connected to a PostgreSQL database using SQLAlchemy.
 
