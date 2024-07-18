@@ -67,4 +67,4 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Machine Learning
 
-* [Heart Attack Risk Analysis]() (unfinished...) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+* [Heart Attack Risk Analysis]() (unfinished...) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
