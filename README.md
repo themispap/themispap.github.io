@@ -47,11 +47,12 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Databases
 
-* <i class="devicon-postgresql-plain-wordmark colored"></i> ["Φ" Maths & Statistics lab database](SQL_project_phi_database)
+* ["Φ" Maths & Statistics lab database](SQL_project_phi_database)
 
 ### Dashboards
 
 * ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard)
+            <i class="devicon-streamlit-plain colored"></i>
 
 ### Data analysis
 
