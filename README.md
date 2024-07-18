@@ -42,8 +42,8 @@ Dedicated and highly analytical professional with a strong background in mathema
 ### Questionnaire analysis
 
 * [Climate change: Teachers' perceptions and self-efficacy regarding its teaching in Primary School]()
-* [Investigating the mental resilience of special educators and its relationship with empathy and mindfulness](E23017/README.md)
-* [Assessing diabetes mellitus competencies among nurses in surgery and pathology departments: knowledge, attitudes and practices](E23024/README.md)
+* [Investigating the mental resilience of special educators and its relationship with empathy and mindfulness](E23017/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+* [Assessing diabetes mellitus competencies among nurses in surgery and pathology departments: knowledge, attitudes and practices](E23024/README.md) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
 
 ### Databases
 
