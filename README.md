@@ -51,11 +51,11 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Dashboards
 
-* ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+* ["Φ" Maths & Statistics lab dashboard](Streamlit_project_phi_dashboard) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
 
 ### Data cleaning
 
-* [SmartPrix Laptops](SmartPrix Laptops) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+* [SmartPrix Laptops](SmartPrix Laptops) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 
 ### Data analysis
 
@@ -67,4 +67,4 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Machine Learning
 
-* [Heart Attack Risk Analysis]() (unfinished...)
+* [Heart Attack Risk Analysis]() (unfinished...) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
