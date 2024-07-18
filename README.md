@@ -24,7 +24,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Tutor, Owner 2018 - TODAY
 
-#### ["Φ" Maths & Statistics lab](https://phi.edu.gr/), Ioannina
+#### ["Φ" Maths & Statistics lab](https://phi.edu.gr/), Ioannina, Greece
 
 * Providing educational support in mathematics and programming to high school students
 * Providing educational support in mathematics, programming and statistics to university students
@@ -32,7 +32,7 @@ Dedicated and highly analytical professional with a strong background in mathema
 
 ### Tutor, Analyst 2015 - 2020
 
-#### Educational Group "Learn IT", Thessaloniki
+#### Educational Group "Learn IT", Thessaloniki, Greece
 
 * Providing questionnaire analysis in the research part of theses
 * Providing educational support in mathematics, statistics and operations research to university students
