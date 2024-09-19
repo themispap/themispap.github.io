@@ -72,6 +72,8 @@ The data is of all the Laptops available online on SmartPrix website in India in
 
 * [Weather Airquality ETL Pipeline](https://themispap.github.io/weather_airquality_etl_pipeline/)
 
+An ETL pipeline that extracts weather and air quality data from public APIs, transforms the data into a clean, analyzable format, and loads it into a PostgreSQL database.
+
 ### Data analysis
 
 * [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](https://themispap.github.io/R_project_time_series_analysis/) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
