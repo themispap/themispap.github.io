@@ -70,7 +70,7 @@ The data is of all the Laptops available online on SmartPrix website in India in
 
 ### ETL (Extract Transform Load)
 
-* [Weather airquality ETL pipeline](https://themispap.github.io/weather_airquality_etl_pipeline/)
+* [Weather Airquality ETL Pipeline](https://themispap.github.io/weather_airquality_etl_pipeline/)
 
 ### Data analysis
 
