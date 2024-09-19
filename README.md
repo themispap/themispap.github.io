@@ -60,7 +60,7 @@ A Streamlit app providing an interactive dashboard connected to a PostgreSQL dat
 
 ### Web Scraping
 
-* project
+* project <x-si-openai />
 
 ### Data cleaning
 
