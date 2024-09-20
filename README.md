@@ -76,7 +76,7 @@ An ETL pipeline that extracts weather and air quality data from public APIs, tra
 
 ### Data analysis
 
-* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](https://themispap.github.io/R_project_time_series_analysis/) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+* [Time Series Analysis and Forecasting for Technical Olympic S.A. Stock Closing Values](https://themispap.github.io/time_series_analysis/) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 
 This project involves a comprehensive time series analysis and forecasting endeavor focused on the closing values of Technical Olympic S.A. stock
 
