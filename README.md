@@ -60,7 +60,7 @@ A Streamlit app providing an interactive dashboard connected to a PostgreSQL dat
 
 ### Web Scraping
 
-* project <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+* coming soon... <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 ### Data cleaning
 
