@@ -70,7 +70,7 @@ The data is of all the Laptops available online on SmartPrix website in India in
 
 ### ETL (Extract Transform Load)
 
-* [Weather Airquality ETL Pipeline](https://themispap.github.io/weather_airquality_etl_pipeline/)
+* [Weather Air Quality ETL Pipeline](https://themispap.github.io/weather_airquality_etl_pipeline/)
 
 An ETL pipeline that extracts weather and air quality data from public APIs, transforms the data into a clean, analyzable format, and loads it into a PostgreSQL database.
 
