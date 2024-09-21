@@ -64,7 +64,7 @@ A Streamlit app providing an interactive dashboard connected to a PostgreSQL dat
 
 ### Data cleaning
 
-* [SmartPrix Laptops](https://themispap.github.io/Data_cleaning_project_SmartPrix_Laptops/) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+* [SmartPrix Laptops](https://themispap.github.io/laptop-data-cleaning/) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
 
 The data is of all the Laptops available online on SmartPrix website in India in the month of March of 2024.
 
