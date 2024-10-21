@@ -60,7 +60,9 @@ A Streamlit app providing an interactive dashboard connected to a PostgreSQL dat
 
 ### Web Scraping
 
-* coming soon... <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+* [1975 Pacific Hurricane Season Data Scraper](https://themispap.github.io/pacific_hurricanes_1975_extractor) <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+Web scraper for the 1975 Pacific hurricane season Wikipedia page
 
 ### Data cleaning
 
